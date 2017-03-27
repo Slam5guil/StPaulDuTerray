@@ -7,7 +7,7 @@
 <link href="css/styly.css" rel="stylesheet" />
 <title>SAINT PAUL DU TERRAY</title>
 </head>
-
+ 
 <body class="body">
 
 <main class="main">
